@@ -31,6 +31,7 @@ public class numerosPrimos {
             }
         }
         System.out.println(" hay " + (int) (Math.floor(contPrimos/2 ))+ " pares de primos en total ");
+        input.close();
     }
 
 }
