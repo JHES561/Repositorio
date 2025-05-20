@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sueldoAntiguedad {
+public class EJERCICIO10U1 {
     public static void main(String[] args) {
         Scanner plus = new Scanner(System.in);
     

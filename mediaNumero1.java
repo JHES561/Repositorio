@@ -26,7 +26,6 @@ public class mediaNumero1 {
 
         double media = (num1 + num2 + num3) / 3;
 
-        // Imprimir resultado con 2 decimales
         System.out.printf("El promedio es: %.2f%n", media);
 
         input.close();

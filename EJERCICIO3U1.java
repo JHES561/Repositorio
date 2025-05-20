@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class UnoODosDigitos {
+public class EJERCICIO3U1 {
     public static void main(String[] args) {
         Scanner plus = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class notasMayoresYMenoresQue7 {
+public class EJERCICIO11U1 {
     public static void main(String[] args) {
         Scanner plus = new Scanner(System.in);
     
